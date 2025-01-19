@@ -1,0 +1,12 @@
+{
+  "name": "array-builtin-performace-check",
+  "version": "1.0.0",
+  "description": "compare performance with array builtin function(forEach, map, filter etc) vs natural for loop base function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
